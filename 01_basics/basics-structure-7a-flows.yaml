@@ -1,0 +1,16 @@
+#  There are two types of styles to write the YAML:
+# ===> Block styles
+# ===> Flow styles
+#
+# Block Style (a.k.a indentation style and JSON style "flow")
+---
+fruits:
+  - banana
+  - apple
+  - mango
+
+japan:
+  capital: Tokyo
+  population: 126.3m
+  island: true
+...
